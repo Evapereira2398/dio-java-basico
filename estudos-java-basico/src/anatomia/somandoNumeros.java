@@ -1,4 +1,4 @@
-package sintaxe;
+package anatomia;
 
 public class somandoNumeros {
     public static void main(String[] args) {

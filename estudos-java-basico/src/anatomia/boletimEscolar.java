@@ -1,4 +1,4 @@
-package sintaxe;
+package anatomia;
 
 public class boletimEscolar {
     
