@@ -7,11 +7,11 @@ package projetos;
 // 3 - Nossa TV aumentará e diminuirá o volume sempre em +1 ou -1;
 // 4 - Nossa TV poderá mudar de canal de 1 em 1 ou definindo o número correspondente; 
 
-public class Usuario {
-    public static void main(String[] args) {
+    public class UsuSmartTv {
+        public static void main(String[] args) {
         
         SmartTv smartTv = new SmartTv();
-        
+
         // Configurações iniciais da TV
         System.out.println("---------------------- Configurações Iniciais ---------------------");
         System.out.println("Ligada? " + smartTv.ligada);
